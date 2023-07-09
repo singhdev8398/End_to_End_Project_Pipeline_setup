@@ -1,1 +1,7 @@
 pandas
+numpy 
+seaborn 
+maplotlib
+flask
+request
+
